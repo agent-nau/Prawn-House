@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Link } from "wouter";
-import { ArrowRight, Star, MapPin, Clock, ChefHat } from "lucide-react";
+import { ArrowRight, Star, MapPin, Clock, ChefHat, UtensilsCrossed } from "lucide-react";
 import { Navigation } from "@/components/Navigation";
 import { Footer } from "@/components/Footer";
 import { useMenu } from "@/hooks/use-menu";
