@@ -108,7 +108,7 @@ export default function Home() {
                <div className="absolute -bottom-4 -right-4 w-32 h-32 bg-accent/20 rounded-full -z-10" />
                {/* Unsplash: fresh seafood platter */}
                <img 
-                 src="https://images.unsplash.com/photo-1565557623262-b51c2513a641?q=80&w=1600&auto=format&fit=crop" 
+                 src="https://lh3.googleusercontent.com/gps-cs-s/AHVAweoAZQmXidE1rDx--VS0nd-45Q2MZ2PKt_6IHBDDCWVmwSJfOu77VMH2jEsahFCsO1tYOd4JRwUvzbf1M1ZTJctjIUMH3GZGxDN9uHhGgH3zV-Y-Wzwzda1sOdIEILjUKsJklc_t=s1360-w1360-h1020-rw" 
                  alt="Fresh Seafood Platter" 
                  className="rounded-2xl shadow-2xl w-full object-cover aspect-[4/3] rotate-1 hover:rotate-0 transition-transform duration-500"
                />

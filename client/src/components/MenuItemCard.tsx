@@ -11,8 +11,8 @@ export function MenuItemCard({ item }: MenuItemCardProps) {
       <div className="relative h-48 md:h-56 overflow-hidden bg-gray-100">
         {item.imageUrl ? (
           <img 
-            src={item.imageUrl} 
-            alt={item.name} 
+            src="https://lh3.googleusercontent.com/gps-cs-s/AHVAweokr8WEfUKKUq2WXEXgSchHoQxGrS6WIjB4am7kdW5-FjuMKOm2UeSDYvBsCTntCNGP16qs1SOHmFYDu30FG2CF64RLbNkAcDtfRbJ3tYthwvs9xBoSb_LDHp14KVBERYNBtQXz7A=s1360-w1360-h1020-rw" 
+            alt='Seafoods Bilao' 
             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
           />
         ) : (
